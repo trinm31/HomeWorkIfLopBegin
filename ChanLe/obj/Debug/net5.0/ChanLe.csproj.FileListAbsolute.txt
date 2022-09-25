@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/bin/Debug/net5.0/ChanLe
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/bin/Debug/net5.0/ChanLe.deps.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/bin/Debug/net5.0/ChanLe.runtimeconfig.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/bin/Debug/net5.0/ChanLe.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/bin/Debug/net5.0/ChanLe.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/bin/Debug/net5.0/ChanLe.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/refint/ChanLe.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ChanLe.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/ChanLe/obj/Debug/net5.0/ref/ChanLe.dll

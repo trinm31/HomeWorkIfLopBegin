@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/bin/Debug/net5.0/HaiSoBangNhau
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/bin/Debug/net5.0/HaiSoBangNhau.deps.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/bin/Debug/net5.0/HaiSoBangNhau.runtimeconfig.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/bin/Debug/net5.0/HaiSoBangNhau.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/bin/Debug/net5.0/HaiSoBangNhau.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/bin/Debug/net5.0/HaiSoBangNhau.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/refint/HaiSoBangNhau.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/HaiSoBangNhau.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/HaiSoBangNhau/obj/Debug/net5.0/ref/HaiSoBangNhau.dll

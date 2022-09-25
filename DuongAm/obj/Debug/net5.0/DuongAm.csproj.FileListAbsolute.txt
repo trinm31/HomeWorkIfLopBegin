@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/bin/Debug/net5.0/DuongAm
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/bin/Debug/net5.0/DuongAm.deps.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/bin/Debug/net5.0/DuongAm.runtimeconfig.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/bin/Debug/net5.0/DuongAm.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/bin/Debug/net5.0/DuongAm.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/bin/Debug/net5.0/DuongAm.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/refint/DuongAm.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/DuongAm.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/DuongAm/obj/Debug/net5.0/ref/DuongAm.dll

@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/bin/Debug/net5.0/NamNhuan
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/bin/Debug/net5.0/NamNhuan.deps.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/bin/Debug/net5.0/NamNhuan.runtimeconfig.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/bin/Debug/net5.0/NamNhuan.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/bin/Debug/net5.0/NamNhuan.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/bin/Debug/net5.0/NamNhuan.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/refint/NamNhuan.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/NamNhuan.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/NamNhuan/obj/Debug/net5.0/ref/NamNhuan.dll

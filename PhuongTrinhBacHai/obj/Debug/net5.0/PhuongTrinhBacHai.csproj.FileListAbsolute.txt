@@ -1,0 +1,16 @@
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/bin/Debug/net5.0/PhuongTrinhBacHai
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/bin/Debug/net5.0/PhuongTrinhBacHai.deps.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/bin/Debug/net5.0/PhuongTrinhBacHai.runtimeconfig.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/bin/Debug/net5.0/PhuongTrinhBacHai.runtimeconfig.dev.json
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/bin/Debug/net5.0/PhuongTrinhBacHai.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/bin/Debug/net5.0/PhuongTrinhBacHai.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.csproj.AssemblyReference.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.AssemblyInfoInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.AssemblyInfo.cs
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.csproj.CoreCompileInputs.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/refint/PhuongTrinhBacHai.dll
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.pdb
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/PhuongTrinhBacHai.genruntimeconfig.cache
+/Users/tringuyen/RiderProjects/HomeWorkLopBeginIfElse/PhuongTrinhBacHai/obj/Debug/net5.0/ref/PhuongTrinhBacHai.dll
